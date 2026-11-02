@@ -1,0 +1,4 @@
+model,accuracy_mean,accuracy_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std,roc_auc_mean,roc_auc_std,pr_auc_mean,pr_auc_std
+Dummy: most_frequent,0.7346,0.0001,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.2654,0.0001
+Dummy: stratified,0.6139,0.0133,0.2748,0.0248,0.2776,0.025,0.2762,0.0249,0.5065,0.0171,0.2686,0.0071
+Rule: month-to-month,0.6548,,0.4275,,0.887,,0.5769,,0.7289,,0.4091,
