@@ -1,0 +1,4 @@
+model,accuracy_mean,accuracy_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std,roc_auc_mean,roc_auc_std,pr_auc_mean,pr_auc_std
+LogReg (tuned),0.8033,0.0126,0.655,0.0275,0.5472,0.0414,0.5956,0.0311,0.8464,0.0128,0.6616,0.019
+RandomForest (tuned),0.8037,0.0085,0.6852,0.0299,0.4836,0.0135,0.5667,0.0144,0.8483,0.0098,0.6654,0.0214
+HistGB (tuned),0.8042,0.0083,0.6694,0.0261,0.5204,0.0225,0.5851,0.0171,0.8491,0.0115,0.6692,0.0208
